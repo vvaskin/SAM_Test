@@ -1,0 +1,54 @@
+
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+eggs/
+parts/
+sdist/
+wheels/
+
+# Testing
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secret files
+.env
+.env.*
+*.env
+
+# Type check / cache
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Logs
+*.log
+
+# Pipenv
+Pipfile.lock
